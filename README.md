@@ -63,6 +63,8 @@ But recently, I started learning **[Vite](https://vitejs.dev/)** and I chose thi
     npm run prod
     ```
    
+4. Access <http://localhost:8000> on your browser.
+   
 ### Optional
 Adjust the database connection in `.env` to match your own configuration.
 
