@@ -38,7 +38,7 @@
     export default {
         name: 'BccBsis42021Devs',
         components: {
-            'navigation': () => import('./components/Navigation')
+            'navigation': () => import('./components/Navigation.vue')
         },
         data() {
             return {

@@ -15,4 +15,4 @@ yarn-error.log
 /.vscode
 
 /public/js/*
-!/public/js/app.js
+/public/build/*

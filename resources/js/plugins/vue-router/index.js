@@ -24,7 +24,7 @@ function lazyLoad(view){
 
 export default new VueRouter({
     mode  : 'history',
-    base  : '/bcc-bsis4-devs',
+    base  : '/app',
     routes: [
         {
             path     : '/',

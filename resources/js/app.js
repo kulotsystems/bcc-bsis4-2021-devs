@@ -7,12 +7,12 @@
 */
 
 
-require('./bootstrap');
+import('./bootstrap');
 import Vue from 'vue';
 
 
 // --- IMPORTS -----------------------------------------------------------
-const BccBsis42021Devs = () => import('./BccBsis42021Devs');
+const BccBsis42021Devs = () => import('./BccBsis42021Devs.vue');
 import router  from './plugins/vue-router';
 import store   from './plugins/vuex-store';
 import vuetify from './plugins/vuetify'
