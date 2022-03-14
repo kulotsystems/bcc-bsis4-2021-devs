@@ -7,12 +7,11 @@ The initial commit of this project uses the default laravel-mix to build front-e
 But recently, I started learning Vite and I chose this project for practice.
 
 ### Development Environment
-|           |           |
+| Tool      | Version   |
 | --------- | --------- |
 | PHP       | `^8.0`    |
 | Node      | `^16.14`  |
 | Composer  | `^2.2.7`  |
-|           |           |
 
 ### Development Setup
 1. Clone or download this repository.
