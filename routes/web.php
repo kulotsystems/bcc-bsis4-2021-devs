@@ -15,6 +15,9 @@ use Illuminate\Http\Client\ConnectionException;
 |
 */
 
+Route::get('/', function() {
+    return redirect('/app');
+});
 
 Route::get('/app/{vue_capture?}', function () {
     return view('index');
