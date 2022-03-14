@@ -1,10 +1,12 @@
 ## bcc-bsis4-2021-devs
-During the last quarter of year 2021, I got an opportunity to mentor some 4th year Bachelor of Science in Information Systems (BSIS) students at Baao Community College who were doing their capstone projects.
+During the last quarter of year 2021, I got an opportunity to mentor some 4th year Bachelor of Science in Information Systems (BSIS) students
+of [Baao Community College](https://web.facebook.com/baacommunitycollege) who were doing their capstone projects.
 
-To keep a record of their projects, I created an Single Page Application (SPA) using Vuetify on Vue and Laravel frameworks.
+To keep a record of their projects,
+I created a Single Page Application (SPA) using [Vuetify](https://vuetifyjs.com/en) on top of [Vue](https://v2.vuejs.org/) and [Laravel](https://laravel.com/).
 
-The initial commit of this project uses the default laravel-mix to build front-end assets.
-But recently, I started learning Vite and I chose this project for practice.
+The initial commit of this project uses the default [laravel-mix](https://laravel-mix.com/) to build front-end assets.
+But recently, I started learning **[Vite](https://vitejs.dev/)** and I chose this project for practice.
 
 ### Development Environment
 | Tool      | Version   |
@@ -73,3 +75,5 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+### Preview
+Visit <https://www.kulotsystems.tech/bcc-bsis4-devs>, but this one is built using `webpack` by `laravel-mix`.
