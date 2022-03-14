@@ -30,7 +30,7 @@ export default new Vuex.Store({
         },
 
         students(state) {
-            return Object.values(state.app.population.students).reverse();
+            return Object.values(state.app.population.students);
         },
 
         studentsObj(state) {
@@ -38,7 +38,7 @@ export default new Vuex.Store({
         },
 
         groups(state) {
-            return Object.values(state.app.population.groups).reverse();
+            return Object.values(state.app.population.groups);
         },
 
         groupsObj(state) {
