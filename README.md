@@ -17,7 +17,7 @@ But recently, I started learning **[Vite](https://vitejs.dev/)** and I chose thi
 
 ### Development Setup
 1. Clone or download this repository.
-2. Open the project directory and **copy** `.env-example` to `.env` in its same directory.
+2. Open the project directory and **copy** `.env.example` to `.env` in its same directory.
 3. Create a MySQL database named `bcc_bsis4_2021_devs`.
 4. Open cloned directory in your terminal then run the following commands in order:
 
